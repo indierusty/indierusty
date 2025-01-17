@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Priyanshu @indierusty
-- 👀 I love programming and building games and tools
-- 🌱 I like to solve challenging problems
+- 👀 building games and tools
 
 <!---
 indierusty/indierusty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
