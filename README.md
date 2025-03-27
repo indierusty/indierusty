@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Priyanshu @indierusty
-- 🛠️ I create and play games. Passionate about indie game development.
+- 🛠️ I have a passion for building video games.
 
 <!---
 indierusty/indierusty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
