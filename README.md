@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Priyanshu @indierusty.
-- 🛠️ I like building small video games.
+- 🛠️ I like programming, mathematics and building small games.
+- 🏸 I play badminton a lot.
 
 <!---
 indierusty/indierusty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
